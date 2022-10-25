@@ -1,0 +1,4 @@
+Nama Saya : Nurfaizzi Rasyid
+Umur      : 22 Tahun
+Stack	  : backend
+Bahasa Pemogramanan : React Native
